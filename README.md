@@ -5,4 +5,4 @@ Please find the data for this proof of concept here: https://drive.google.com/fi
 
 ![alt text][chart]
 
-[chart]: https://github.com/mayakobrien/Geog6293Final/blob/main/Screenshot%202025-05-06%20105920.png
+[chart]: https://github.com/mayakobrien/Geog6293Final/blob/main/Chart%20Output%20Example
